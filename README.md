@@ -4,9 +4,7 @@ TRIO USE is a python project using which You can get the current top news in BBC
 
 
 
-PROJECT NAME                     :              TRIO USE by ERRORs (consists of Manojkumar.K and Mohammed Rashid.A)
-									
-									                                For your kind informtion ERRORs is our team name .
+PROJECT NAME   :    TRIO USE by ERRORs (consists of Manojkumar.K and Mohammed Rashid.A) For your kind informtion ERRORs is our team name .
 
 
 
