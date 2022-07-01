@@ -16,7 +16,7 @@ USES :You can get the current top news in BBC , you can get a funny joke (not ac
 
 
 
-DIFFICULTIES : At the begining we messed up with the api and finnaly found out these .Especially  we can't joke api which gives a joke , all the joke api gives a sentence and names it as joke . After going  through lot of dippression in joke api we finnally finished the project . But not actually finished , we have planned to create a web app but due to lack of time we finished using python .
+DIFFICULTIES : At the begining we messed up with the api and finnaly found out these .Especially  we can't find a joke api which gives a joke , all the joke api gives a sentence and names it as joke . After going  through lot of dippression in joke api we finnally finished the project . But not actually finished , we have planned to create a web app but due to lack of time we finished using python .
 									
 	
 
